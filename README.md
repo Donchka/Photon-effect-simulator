@@ -1,1 +1,1 @@
-# Phton-effect-simulator
+# Photon-effect-simulator
